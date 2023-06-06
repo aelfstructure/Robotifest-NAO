@@ -1,4 +1,5 @@
 # Robotifest-NAO
+NOTE: check for you Language version, i will upload it Spanish (Original) and English
 This was the code winner of a Robotifest NAO Python challenge in 2022
 The challenge consts of a rutine, which NAO robot pretend to be the instructor.
 Here was the main idea...
