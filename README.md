@@ -1,5 +1,5 @@
 # Robotifest-NAO
-This is the English notes, Spanish notese will be down below
+This is the English notes, Spanish notes will be down below
 
 NOTE: check for you Language version, i will upload it Spanish (Original) and English
 This was the code winner of a Robotifest NAO Python challenge in 2022
